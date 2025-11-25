@@ -136,3 +136,22 @@ Plots (see `/assets`):
 - `assets/sarsa_vs_doubleq_rewards.png`
 
 ---
+
+🚀 Getting Started
+1. Install dependencies
+pip install -r requirements.txt
+# or
+pip install gymnasium numpy matplotlib
+
+
+2. Run SARSA training
+python src/train_sarsa.py
+
+This will:
+
+Train a SARSA agent on the Treasure Hunt Grid World
+
+Save reward / epsilon plots and the learned Q-table
+
+3. Run N-step Double Q-Learning
+python src/train_doubleq_nstep.py --n 3
