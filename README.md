@@ -1,3 +1,15 @@
+<p align="center">
+  
+  ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+  ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+  ![Reinforcement Learning](https://img.shields.io/badge/RL-Reinforcement%20Learning-blueviolet)
+  ![Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange)
+  ![NumPy](https://img.shields.io/badge/NumPy-1.26%2B-blue)
+  ![Gymnasium](https://img.shields.io/badge/Gymnasium-0.29%2B-red)
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.8%2B-yellow)
+
+</p>
+
 # Treasure Hunt Grid World – Reinforcement Learning with SARSA & N-step Double Q-Learning
 
 This project defines and solves a custom **Treasure Hunt Grid World** environment using the **Gymnasium** API.  
